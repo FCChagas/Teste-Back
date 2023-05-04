@@ -47,7 +47,7 @@ Configurar o Swagger para termos acesso a documentação da API.<br>
 
 # Método de Avaliação
 
-Seu código estará sob análise do time de Front. O que vamos procurar:<br>
+Seu código estará sob análise do time backend. O que vamos procurar:<br>
 •	Boas práticas e padrões<br>
 •	Código e estrutura de pastas<br>
 •	Componentização e fluxo de dados<br>
